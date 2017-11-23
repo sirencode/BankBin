@@ -11,7 +11,7 @@ import android.widget.TextView;
  * Created by Diablo on 2017/11/20.
  */
 
-public class SecoundAct extends Activity {
+public class MainActivity extends Activity {
 
     private EditText editText;
     private TextView textView;
